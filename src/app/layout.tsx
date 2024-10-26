@@ -5,8 +5,8 @@ import {Inter} from "next/font/google";
 import localFont from "next/font/local";
 
 export const metadata: Metadata = {
-  title: "Can-Vet İlaç | Arı İlaçları",
-  description: "Can-Vet İlaç olarak arı ilaçları üretimi yapmaktayız. Ürünlerimiz hakkında detaylı bilgi almak için sitemizi ziyaret edin.",
+  title: "Bera İlaç | Bera İlaçları",
+  description: "Bera İlaç olarak ek gıda ilaçları üretimi yapmaktayız. Ürünlerimiz hakkında detaylı bilgi almak için sitemizi ziyaret edin.",
 };
 
 const helvetica = localFont({

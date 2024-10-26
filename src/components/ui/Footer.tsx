@@ -12,7 +12,7 @@ const Footer = () => {
                     </div>
                     <div className={"flex flex-col lg:flex-row gap-x-4 gap-y-2 mb-2 text-sm 4k:text-3xl text-foreground/50"}>
                         <p>
-                            &copy; 2024 Can-Vet İlaç
+                            &copy; 2025 Bera İlaç
                         </p>
                         <div className={"flex gap-4"}>
                             <p>
@@ -32,7 +32,7 @@ const Footer = () => {
                 </div>
                 <div className={"flex w-full h-full justify-center"}>
                     <p className={"text-sm font-light 4k:text-3xl"}>
-                        canvetilac.com sitesi <a className={"underline font-medium"} href={"https://syntramedia.com"}>Syntra Media</a> tarafından tasarlanmış ve geliştirilmiştir. Tüm hakları saklıdır © 2024 Can-Vet İlaç.
+                        berailac.com sitesi <a className={"underline font-medium"} href={"https://instagram.com/bakidobur"}>Baki Dobur</a> tarafından tasarlanmış ve geliştirilmiştir. Tüm hakları saklıdır © 2025 Bera İlaç.
                     </p>
                 </div>
             </div>

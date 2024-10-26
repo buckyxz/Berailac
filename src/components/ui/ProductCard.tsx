@@ -43,7 +43,7 @@ const ProductCard = ({src, name, description, details, price, className}: Produc
                 <CardFooter>
                     <div className={"flex justify-between items-center w-full"}>
                         <p className={"text-xl"}>
-                            {price}TRY
+                            {price}₺
                         </p>
                         <a href={`/urunlerimiz/${name.toLowerCase()}`} className={"text-lg text-right text-brand"}>
                             Detayları öğren

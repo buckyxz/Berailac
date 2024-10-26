@@ -12,17 +12,14 @@ type Product = {
 
 const PRODUCTS = [
     {
-        name: "Apicario",
-        href: "apicario",
+        name: "Beraflex",
+        href: "beraflex",
         description: `
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+            Osteoartit tarafından etkilenen dizdeki ağrı ve hareketin iyileşmesine yardımcı olabilir
+Chondroitin Sulfate:Eklemin basınca direncini sağlayan glikozamonoglikan yapıda bir maddedir
+Chondroitin sulfate bağ dokusunua daha fazla besin geçmesine,suyun kıkırdaktan geçmesine ve bağ dokusunun sağlamlığını,esnekliğini arttırarak onarıma yardımcı olabilir
+Hyaluronic Asit: Eklem kıkırdağının temel yapı taşlarından biridir
+Vücutta kollajen liflerin oluşumda ve korunmasında faydalıdır
         `,
         price: 100,
         src: "/product-1.png"
