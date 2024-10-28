@@ -8,7 +8,7 @@ const AboutUs = () => {
                 <div className={"flex flex-col w-full gap-8 text-foreground/80"}>
                     <div className={"flex flex-col gap-5"}>
                         <h2 className={"text-3xl font-medium lg:text-5xl"}>
-                            Arılarınızın sağlığı <span className={"text-brand"}>bizim</span> elimizde
+                            İnsan sağlığı <span className={"text-brand"}>bizim</span> elimizde
                         </h2>
                         <p className={"lg:text-xl text-foreground/60"}>
                             Uzman hekimler tarafından hazırlanmış, yılların akademik çalışmaları sonucu kataloğa eklenmiş, etkili, pratik ve güvenilir ilaçlarla arılarınızın sağlığını koruyun.
@@ -20,11 +20,11 @@ const AboutUs = () => {
                                    className={"w-8 h-8 lg:w-12 lg:h-12 3xl:w-16 3xl:h-16"}/>
                             <div className={"flex-flex gap-1 "}>
                                 <p className={"text-foreground"}>
-                                    Veteriner hekim onaylı
+                                    Uzman hekim onaylı
                                 </p>
                                 <p className={"text-sm 3xl:text-base text-foreground/60"}>
                                     Ürün listemizdeki tüm ürünler
-                                    veteriner hekimler tarafından
+                                    uzmanlar tarafından
                                     onaylanmıştır
                                 </p>
                             </div>
@@ -38,7 +38,7 @@ const AboutUs = () => {
                                 </p>
                                 <p className={"text-sm 3xl:text-base text-foreground/60"}>
                                     Ürün listemizdeki tüm ürünler
-                                    veteriner hekimler tarafından
+                                    uzmanlar tarafından
                                     onaylanmıştır
                                 </p>
                             </div>

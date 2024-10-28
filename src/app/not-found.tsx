@@ -23,7 +23,7 @@ const NotFound = () => {
                     </Link>
                 </Button>
                 <p className={"bottom-0 absolute py-16 text-foreground/60"}>
-                    canvetilac.com sitesi <a href={"https://syntramedia.com"} className={"font-medium underline underline-offset-1"}>Syntra Media</a> tarafından tasarlanmış ve geliştirilmiştir. &#169; Tüm hakları saklıdır. {new Date().getFullYear()} Can-Vet İlaç
+                    berailac.com sitesi <a href={"https://instagram.com/bakidobur"} className={"font-medium underline underline-offset-1"}>Baki Dobur</a> tarafından tasarlanmış ve geliştirilmiştir. &#169; Tüm hakları saklıdır. {new Date().getFullYear()} Bera İlaç
                 </p>
             </div>
         </div>
